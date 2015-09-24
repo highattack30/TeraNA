@@ -9,6 +9,6 @@
 	<classpathentry kind="lib" path="libs/rlib.jar"/>
 	<classpathentry kind="lib" path="libs/slf4j-api-1.7.12.jar"/>
 	<classpathentry kind="lib" path="libs/slf4j-jdk14-1.7.12.jar"/>
-	<classpathentry kind="lib" path="libs/stera.jar"/>
+	<classpathentry kind="lib" path="libs/terana.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

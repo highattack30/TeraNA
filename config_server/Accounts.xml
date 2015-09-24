@@ -13,7 +13,8 @@
 
 	<set name="ACCOUNT_PREMIUM_QUEST_RATE" value="2.0" />	
 	<set name="ACCOUNT_PREMIUM_QUEST" value="true" />
-	
+	<!-- Premium Hero Rate (2.0) -->
+	<set name="ACCOUNT_PREMIUM_HERO_RATE" value="2.0" />
 	
 	<!-- включить ли авто создание аккаунта при входе (true) -->
 	<set name="ACCOUNT_AUTO_CREATE" value="true" />

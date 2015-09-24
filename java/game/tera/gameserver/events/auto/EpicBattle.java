@@ -430,7 +430,7 @@ public final class EpicBattle extends AbstractAutoEvent
 	@Override
 	protected void prepareEndState()
 	{
-		World.sendAnnounce("Бой окончен.");
+		World.sendAnnounce("The battle is over.");
 
 		Spawn[] guards = EventUtils.guards;
 
@@ -443,17 +443,17 @@ public final class EpicBattle extends AbstractAutoEvent
 
 		// если победила вторая тима
 		if(playerTeam.isEmpty() && !bootsTeam.isEmpty())
-			World.sendAnnounce("Победила элитная команда!");
+			World.sendAnnounce("The winner team of the elite!");
 		// если победила первая
 		else if(!playerTeam.isEmpty() && bootsTeam.isEmpty())
 		{
-			World.sendAnnounce("Победила команда игроков!");
+			World.sendAnnounce("Team won the of players!");
 			winner = 1;
 		}
 		// если никто не победил
 		else
 		{
-			World.sendAnnounce("Победивших нет...");
+			World.sendAnnounce("The event has no winners");
 		}
 
 		// если есть победитель
@@ -565,7 +565,7 @@ public final class EpicBattle extends AbstractAutoEvent
 		// если нужного кол-во не набралось
 		if(players.size() < Config.EVENT_EB_MIN_PLAYERS)
 		{
-			World.sendAnnounce("Недостаточное кол-во участников.");
+			World.sendAnnounce("Insufficient number of participants.");
 
 			// ставим сталию финиша
 			setState(EventState.FINISHING);

@@ -413,13 +413,13 @@ public abstract class AbstractAutoEvent extends SafeTask implements Event, Synch
 	 */
 	protected void registerState() {
 
-		World.sendAnnounce("До старта ивента осталось " + time + " минут(а)");
+		World.sendAnnounce("Prior to the start of Event left " + time + " Minute(s)");
 
 		if(isNeedShowPlayerCount()) {
-			World.sendAnnounce("Зарегистрировано " + prepare.size() + " участника(ов)");
+			World.sendAnnounce(prepare.size() + " Registered Member (s)");
 		}
 
-		World.sendAnnounce("Регистрация у НПС [Mystel] либо через команду --event_reg " + getName());
+		World.sendAnnounce("Register NPC [Mystel] or via the command --event_reg " + getName());
 
 		time--;
 
@@ -522,7 +522,7 @@ public abstract class AbstractAutoEvent extends SafeTask implements Event, Synch
 			EventManager eventManager = EventManager.getInstance();
 			eventManager.start(this);
 
-			World.sendAnnounce("Запущен автоматический ивент \"" + getName() + "\"");
+			World.sendAnnounce("The event started automatically \"" + getName() + "\"");
 
 			setStarted(true);
 			setState(EventState.REGISTER);
@@ -556,7 +556,7 @@ public abstract class AbstractAutoEvent extends SafeTask implements Event, Synch
 			objectEventManager.removeDeleteListener(this);
 			objectEventManager.removeDieListener(this);
 
-			World.sendAnnounce("Ивент \"" + getName() + "\" завершен.");
+			World.sendAnnounce("The Event \"" + getName() + "\" it's over");
 
 			setStarted(false);
 			setState(EventState.FINISHED);

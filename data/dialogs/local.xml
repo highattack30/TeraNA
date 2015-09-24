@@ -3,7 +3,7 @@
 
 	<npc id="1050" type="64">
 		<!-- Island of Dawn -->
-		<link name="Местный Телепорт" icon="DIALOG" >
+		<link name="Local Teleport" icon="DIALOG" >
 			<reply name="ReplyTeleport" >
 				<loc name="Leander's Outpost" price="262" index="1" />
 				<loc name="Tainted Gorge" price="262" index="2" />
@@ -13,7 +13,7 @@
 	
 	<npc id="1030" type="60">
 		<!-- Lumbertown -->
-		<link name="Местный Телепорт" icon="DIALOG" >
+		<link name="Local Teleport" icon="DIALOG" >
 			<reply name="ReplyTeleport" >
 				<loc name="Maon's Cabin" price="367" index="3" />
 				<loc name="Faevine Vale Camp" price="367" index="4" />
@@ -32,7 +32,7 @@
 	
 	<npc id="1017" type="59">
 		<!-- Crescentia -->
-		<link name="Местный Телепорт" icon="DIALOG" >
+		<link name="Local Teleport" icon="DIALOG" >
 			<reply name="ReplyTeleport" >
 				<loc name="Maon's Cabin" price="367" index="3" />
 				<loc name="Faevine Vale Camp" price="367" index="4" />
@@ -51,7 +51,7 @@
 	
 	<npc id="1014" type="65">
 		<!-- Chebika -->
-		<link name="Местный Телепорт" icon="DIALOG" >
+		<link name="Local Teleport" icon="DIALOG" >
 			<reply name="ReplyTeleport" >
 				<loc name="Desert Research Station" price="1575" index="19" />
 				<loc name="Barrens Outpost" price="1575" index="20" />
@@ -75,7 +75,7 @@
 	
 	<npc id="1015" type="66">
 		<!-- Tulufan -->
-		<link name="Местный Телепорт" icon="DIALOG" >
+		<link name="Local Teleport" icon="DIALOG" >
 			<reply name="ReplyTeleport" >
 				<loc name="Desert Research Station" price="2100" index="19" />
 				<loc name="Barrens Outpost" price="2100" index="20" />
@@ -99,7 +99,7 @@
 	
 	<npc id="1009" type="61">
 		<!-- Castanica -->
-		<link name="Местный Телепорт" icon="DIALOG" >
+		<link name="Local Teleport" icon="DIALOG" >
 			<reply name="ReplyTeleport" >
 				<loc name="Cauldron Outpost" price="6825" index="72" />
 				<loc name="Firebase Intrepid" price="6825" index="73" />
@@ -110,7 +110,7 @@
 	
 	<npc id="1022" type="67">
 		<!-- Popolion -->
-		<link name="Местный Телепорт" icon="DIALOG" >
+		<link name="Local Teleport" icon="DIALOG" >
 			<reply name="ReplyTeleport" >
 				<loc name="Runicar Research Camp" price="925" index="7" />
 				<loc name="Alethea's Last Hope" price="925" index="8" />
@@ -130,7 +130,7 @@
 	
 	<npc id="1015" type="68">
 		<!-- Pora Elinu -->
-		<link name="Местный Телепорт" icon="DIALOG" >
+		<link name="Local Teleport" icon="DIALOG" >
 			<reply name="ReplyTeleport" >
 				<loc name="Runicar Research Camp" price="1875" index="7" />
 				<loc name="Alethea's Last Hope" price="1875" index="8" />
@@ -150,7 +150,7 @@
 	
 	<npc id="1015" type="75">
 		<!-- Frontera -->
-		<link name="Местный Телепорт" icon="DIALOG" >
+		<link name="Local Teleport" icon="DIALOG" >
 			<reply name="ReplyTeleport" >
 				<loc name="Quarantine Zone Research Center" price="4560" index="100" />
 			</reply>
@@ -159,7 +159,7 @@
 	
 	<npc id="1007" type="71">
 		<!-- Bastion -->
-		<link name="Местный Телепорт" icon="DIALOG" >
+		<link name="Local Teleport" icon="DIALOG" >
 			<reply name="ReplyTeleport" >
 				<loc name="Stronghold Camp" price="9560" index="3" />
 				<loc name="Camp Curiosity" price="9560" index="4" />
@@ -171,12 +171,12 @@
 	
 	<!-- 
 	
-	нуболока 2.62серебра
-лумбертаун 3.67
-крестенция 3.67
-чебика 15.75
-тулуфан 21.00
-кастаника 68.25
+	nuboloka 2.62serebra
+lumbertaun 3.67
+krestentsiya 3.67
+Chebika 15.75
+tulufan 21.00
+castanics 68.25
 
 		1 - Leander's Outpost
 		2 - Tainted Gorge

@@ -3,7 +3,7 @@
 
 	<npc id="3602" type="63" >
 		<!-- Магазин Украшений (шапочки) -->
-		<link name="Украшения" icon="DIALOG" >
+		<link name="Decoration" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2401">
 				<section>
 					<item id="50033" />
@@ -41,7 +41,7 @@
 		
 	<npc id="1104" type="63" >
 		<!-- Магазин кристаллов Velika-->
-		<link name="Кристаллы" icon="DIALOG" >
+		<link name="Crystals" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="10001">
 				<section>
 					<item id="8202" />
@@ -153,7 +153,7 @@
 	
 	<npc id="1176" type="63" >
 		<!-- Магазин  Кристаллов Velika -->
-		<link name="Кристаллы" icon="DIALOG" >
+		<link name="Crystals" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="10001">
 				<section>
 					<item id="8202" />
@@ -265,7 +265,7 @@
 	
 	<npc id="1253" type="63" >
 		<!-- Магазин  Кристаллов Velika -->
-		<link name="Кристаллы" icon="DIALOG" >
+		<link name="Crystals" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="10001">
 				<section>
 					<item id="8202" />
@@ -377,7 +377,7 @@
 	
 	<npc id="1002" type="63" >
 		<!-- Магазин  Кристаллов Velika -->
-		<link name="Кристаллы" icon="DIALOG" >
+		<link name="Crystals" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="10001">
 				<section>
 					<item id="8202" />
@@ -489,7 +489,7 @@
 	
 	<npc id="1250" type="63" >
 		<!-- Магазин красок Velika -->
-		<link name="Краски" icon="DIALOG" >
+		<link name="Paints" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2401">
 				<section>
 					<item id="208" />
@@ -522,7 +522,7 @@
 	
 	<npc id="1248" type="63">
 		<!-- Ремодельер в Velika -->
-		<link name="Изменение модели" icon="DIALOG" >
+		<link name="Change model" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2601">
 				<section>
 					<item id="4009" />
@@ -742,7 +742,7 @@
 	
 	<npc id="1221" type="63">
 		<!-- Глиф Мастер Velika -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2005">
 				<section>
 					<item id="7600" />
@@ -813,7 +813,7 @@
 	
 	<npc id="1225" type="63">
 		<!-- Глиф Мастер Velika -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2007">
 				<section>
 					<item id="7700" />
@@ -877,7 +877,7 @@
 
 	<npc id="1201" type="63" >
 		<!-- Глиф Мастер Velika -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop"  sectionId="2008">
 				<section>
 					<item id="7750" />
@@ -939,7 +939,7 @@
 	
 	<npc id="1213" type="63" >
 		<!-- Глиф Мастер Velika -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2006">
 				<section>
 					<item id="7650" />
@@ -996,7 +996,7 @@
 	
 	<npc id="1216" type="63">
 		<!-- Глиф Мастер Velika -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop"  sectionId="2002">
 				<section>
 					<item id="7450" />
@@ -1048,7 +1048,7 @@
 	
 	<npc id="1205" type="63" >
 		<!-- Глиф Мастер Velika -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2003">
 				<section>
 					<item id="7500" />
@@ -1103,7 +1103,7 @@
 	
 	<npc id="1206" type="63" >
 		<!-- Глиф Мастер Velika -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop"  sectionId="2004">
 				<section>
 					<item id="7550" />
@@ -1157,7 +1157,7 @@
 	
 	<npc id="1217" type="63" >
 		<!-- Глиф Мастер Velika -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop"  sectionId="2001">
 				<section>
 					<item id="7448" />

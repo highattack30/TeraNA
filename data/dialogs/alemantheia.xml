@@ -3,63 +3,63 @@
 
 	<npc id="1056" type="72">
 		<!-- НПЦ для изучения скилов Alemantheia -->
-		<link name="Изучение Умений" icon="DIALOG" >
+		<link name="Learning Skill" icon="DIALOG" >
 			<reply name="ReplySkillShop" classes="SLAYER" />   			
 		</link>
 	</npc>
 	
 	<npc id="1053" type="72">
 		<!-- НПЦ для изучения скилов Alemantheia -->
-		<link name="Изучение Умений" icon="DIALOG" >
+		<link name="Learning Skill" icon="DIALOG" >
 			<reply name="ReplySkillShop" classes="WARRIOR" />   			
 		</link>
 	</npc>
 	
 	<npc id="1057" type="72">
 		<!-- НПЦ для изучения скилов Alemantheia -->
-		<link name="Изучение Умений" icon="DIALOG" >
+		<link name="Learning Skill" icon="DIALOG" >
 			<reply name="ReplySkillShop" classes="ARCHER" />   			
 		</link>
 	</npc>
 	
 	<npc id="1054" type="72">
 		<!-- НПЦ для изучения скилов Alemantheia -->
-		<link name="Изучение Умений" icon="DIALOG" >
+		<link name="Learning Skill" icon="DIALOG" >
 			<reply name="ReplySkillShop" classes="BERSERKER" />   			
 		</link>
 	</npc>
 	
 	<npc id="1055" type="72">
 		<!-- НПЦ для изучения скилов Alemantheia -->
-		<link name="Изучение Умений" icon="DIALOG" >
+		<link name="Learning Skill" icon="DIALOG" >
 			<reply name="ReplySkillShop" classes="LANCER" />   			
 		</link>
 	</npc>
 	
 	<npc id="1058" type="72">
 		<!-- НПЦ для изучения скилов SORCERER -->
-		<link name="Изучение Умений" icon="DIALOG" >
+		<link name="Learning Skill" icon="DIALOG" >
 			<reply name="ReplySkillShop" classes="MYSTIC" />   			
 		</link>
 	</npc>
 	
 	<npc id="1059" type="72">
 		<!-- НПЦ для изучения скилов Alemantheia -->
-		<link name="Изучение Умений" icon="DIALOG" >
+		<link name="Learning Skill" icon="DIALOG" >
 			<reply name="ReplySkillShop" classes="PRIEST" />   			
 		</link>
 	</npc>
 	
 	<npc id="1060" type="72">
 		<!-- НПЦ для изучения скилов Alemantheia -->
-		<link name="Изучение Умений" icon="DIALOG" >
+		<link name="Learning Skill" icon="DIALOG" >
 			<reply name="ReplySkillShop" classes="MYSTIC" />   			
 		</link>
 	</npc>
 	
 	<npc id="1002" type="72" >
 		<!-- Магазин кристаллов Alemantheia-->
-		<link name="Кристаллы" icon="DIALOG" >
+		<link name="Crystals" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="10001">
 				<section>
 					<item id="8202" />
@@ -171,7 +171,7 @@
 	
 	<npc id="1048" type="72" >
 		<!-- Магазин кристаллов Alemantheia-->
-		<link name="Кристаллы" icon="DIALOG" >
+		<link name="Crystals" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="10001">
 				<section>
 					<item id="8202" />
@@ -283,7 +283,7 @@
 	
 	<npc id="1001" type="72">
 		<!-- Магазин итемов Alemantheia -->
-		<link name="Магазин" icon="DIALOG" >
+		<link name="Shop" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="1601" >
 				<section>
 					<item id="15" />
@@ -365,8 +365,8 @@
 	</npc>
 	
 	<npc id="1020" type="72">
-		<!-- Магазин итемов Alemantheia -->
-		<link name="Магазин" icon="DIALOG" >
+		<!-- Shop итемов Alemantheia -->
+		<link name="Shop" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="1601" >
 				<section>
 					<item id="15" />
@@ -448,8 +448,8 @@
 	</npc>
 	
 	<npc id="1433" type="72" >
-		<!-- Магазин красок Alemantheia -->
-		<link name="Краски" icon="DIALOG" >
+		<!-- Shop красок Alemantheia -->
+		<link name="Paints" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2401">
 				<section>
 					<item id="208" />
@@ -482,7 +482,7 @@
 	
 	<npc id="1431" type="72">
 		<!-- Ремодельер в Alemantheia -->
-		<link name="Изменение модели" icon="DIALOG" >
+		<link name="Change model" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2601">
 				<section>
 					<item id="4009" />
@@ -702,7 +702,7 @@
 	
 	<npc id="1163" type="72">
 		<!-- Глиф Мастер Alemantheia Sorcerer -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2005">
 				<section>
 					<item id="7600" />
@@ -773,7 +773,7 @@
 	
 	<npc id="1166" type="72">
 		<!-- Глиф Мастер Alemantheia Mystic -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2007">
 				<section>
 					<item id="7700" />
@@ -837,7 +837,7 @@
 
 	<npc id="1146" type="72" >
 		<!-- Глиф Мастер Alemantheia Priest -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop"  sectionId="2008">
 				<section>
 					<item id="7750" />
@@ -899,7 +899,7 @@
 	
 	<npc id="1154" type="72" >
 		<!-- Глиф Мастер Alemantheia Archer -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2006">
 				<section>
 					<item id="7650" />
@@ -956,7 +956,7 @@
 	
 	<npc id="1156" type="72">
 		<!-- Глиф Мастер Alemantheia Lancer -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop"  sectionId="2002">
 				<section>
 					<item id="7450" />
@@ -1008,7 +1008,7 @@
 	
 	<npc id="1149" type="72" >
 		<!-- Глиф Мастер Alemantheia Slayer -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2003">
 				<section>
 					<item id="7500" />
@@ -1063,7 +1063,7 @@
 	
 	<npc id="1150" type="72" >
 		<!-- Глиф Мастер Alemantheia Berserker -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop"  sectionId="2004">
 				<section>
 					<item id="7550" />
@@ -1117,7 +1117,7 @@
 	
 	<npc id="1159" type="72" >
 		<!-- Глиф Мастер Alemantheia Warrior -->
-		<link name="Глифы" icon="DIALOG" >
+		<link name="Glyphs" icon="DIALOG" >
 			<reply name="ReplyShop"  sectionId="2001">
 				<section>
 					<item id="7448" />

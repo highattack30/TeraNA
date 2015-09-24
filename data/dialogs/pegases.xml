@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <list>		
 	<npc id="1016" type="213" >
-		<link name="Перелет" icon="DIALOG" >
+		<link name="Fly" icon="DIALOG" >
 			<reply name="ReplyPegas" town="TOWER_BASE" >
 				<route index="8" price="1050" target="VELIKA" />
 				<route index="134" price="1050" target="CUTTHROAT_HARBOR" />
@@ -11,7 +11,7 @@
 	</npc>
 	
 	<npc id="1009" type="63">
-		<link name="Перелет" icon="DIALOG" >
+		<link name="Fly" icon="DIALOG" >
 			<reply name="ReplyPegas" town="VELIKA" >
 				<route index="1" price="1050" target="TOWER_BASE" />
 				<route index="2" price="1050" target="LUMBERTOWN" />
@@ -29,7 +29,7 @@
 	</npc>
 	
 	<npc id="1015" type="60">
-		<link name="Перелет" icon="DIALOG">
+		<link name="Fly" icon="DIALOG">
 			<reply name="ReplyPegas" town="LUMBERTOWN" >
 				<route index="9" price="1050" target="VELIKA" />
 				<route index="7" price="1050" short="true" target="CRESCENTIA" />
@@ -45,7 +45,7 @@
 	</npc>
 	
 	<npc id="1013" type="59">
-		<link name="Перелет" icon="DIALOG">
+		<link name="Fly" icon="DIALOG">
 			<reply name="ReplyPegas" town="CRESCENTIA" >
 				<route index="14" price="1050" short="true" target="LUMBERTOWN" />
 				<route index="10" price="1050" target="VELIKA" />
@@ -61,7 +61,7 @@
 	</npc>
 	
 	<npc id="1008" type="61">
-		<link name="Перелет" icon="DIALOG" >
+		<link name="Fly" icon="DIALOG" >
 			<reply name="ReplyPegas" town="CASTANICA" >
 				<route index="22" price="1050" target="VELIKA" />
 				<route index="28" price="1050" short="true" target="CUTTHROAT_HARBOR" />
@@ -77,7 +77,7 @@
 	</npc>
 	
 	<npc id="1006" type="62">
-		<link name="Перелет" icon="DIALOG" >
+		<link name="Fly" icon="DIALOG" >
 			<reply name="ReplyPegas" town="CUTTHROAT_HARBOR" >
 				<route index="20" price="1050" target="VELIKA" />
 				<route index="27" price="1050" short="true" target="CASTANICA" />
@@ -93,7 +93,7 @@
 	</npc>
 	
 	<npc id="1006" type="67">
-		<link name="Перелет" icon="DIALOG" >
+		<link name="Fly" icon="DIALOG" >
 			<reply name="ReplyPegas" town="POPOLION" >
 				<route index="6" price="1050" short="true" target="PORA_ELINU" />
 				<route index="11" price="1050" target="VELIKA" />
@@ -109,7 +109,7 @@
 	</npc>
 	
 	<npc id="1006" type="223">
-		<link name="Перелет" icon="DIALOG" >
+		<link name="Fly" icon="DIALOG" >
 			<reply name="ReplyPegas" town="PORA_ELINU" >
 				<route index="13" price="1050" short="true" target="POPOLION" />
 				<route index="12" price="1050" target="VELIKA" />
@@ -125,7 +125,7 @@
 	</npc>
 	
 	<npc id="1016" type="65">
-		<link name="Перелет" icon="DIALOG" >
+		<link name="Fly" icon="DIALOG" >
 			<reply name="ReplyPegas" town="CHEBIKA" >
 				<route index="25" price="1050" short="true" target="TULUFAN" />
 				<route index="16" price="1050" target="VELIKA" />
@@ -141,7 +141,7 @@
 	</npc>
 	
 	<npc id="1016" type="66">
-		<link name="Перелет" icon="DIALOG" >
+		<link name="Fly" icon="DIALOG" >
 			<reply name="ReplyPegas" town="TULUFAN" >
 				<route index="26" price="1050" short="true" target="CHEBIKA" />
 				<route index="18" price="1050" target="VELIKA" />
@@ -157,7 +157,7 @@
 	</npc>
 	
 	<npc id="1012" type="72">
-		<link name="Перелет" icon="DIALOG" >
+		<link name="Fly" icon="DIALOG" >
 			<reply name="ReplyPegas" town="ALEMANTHEIA" >
 				<route index="311" price="1051" target="TRALION" />
 				<route index="331" price="1052" target="TRIA" />
@@ -173,7 +173,7 @@
 	</npc>
 	
 	<npc id="1011" type="72">
-		<link name="Перелет" icon="DIALOG" >
+		<link name="Fly" icon="DIALOG" >
 			<reply name="ReplyPegas" town="ALEMANTHEIA" >
 				<route index="311" price="1050" target="TRALION" />
 				<route index="331" price="1050" target="TRIA" />
@@ -189,7 +189,7 @@
 	</npc>
 	
 	<npc id="1006" type="75">
-		<link name="Перелет" icon="DIALOG" >
+		<link name="Fly" icon="DIALOG" >
 			<reply name="ReplyPegas" town="FRONTERA" >
 				<route index="40" price="1050" target="ALEMANTHEIA" />
 				<route index="143" price="1050" target="TRALION" />
@@ -203,7 +203,7 @@
 	</npc>
 	
 	<npc id="1006" type="71">
-		<link name="Перелет" icon="DIALOG" >
+		<link name="Fly" icon="DIALOG" >
 			<reply name="ReplyPegas" town="BASTION" >
 				<route index="184" price="1050" target="FRONTERA" />
 				<route index="186" price="1050" target="ELENEA" />

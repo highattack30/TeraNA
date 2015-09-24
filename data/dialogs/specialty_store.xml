@@ -2,7 +2,7 @@
 <list>	
 	<npc id="1001" type="364">
 		<!-- Магазин различных итемов в Tower Base -->
-		<link name="Магазин" icon="DIALOG" >
+		<link name="Shop" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2501" >
 				<section>								
 					<item id="171" />
@@ -212,8 +212,8 @@
 	</npc>
 
 	<npc id="1002" type="360">
-		<!-- Магазин различных итемов в Lumbertown -->
-		<link name="Магазин" icon="DIALOG" >
+		<!-- Shop различных итемов в Lumbertown -->
+		<link name="Shop" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2501" >
 				<section>
 					<item id="171" />
@@ -423,8 +423,8 @@
 	</npc>
 	
 	<npc id="1001" type="359">
-		<!-- Магазин различных итемов в Crescentia -->
-		<link name="Магазин" icon="DIALOG" >
+		<!-- Shop различных итемов в Crescentia -->
+		<link name="Shop" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2501" >
 				<section>
 					<item id="171" />
@@ -634,8 +634,8 @@
 	</npc>
 
 	<npc id="1002" type="367">
-		<!-- Магазин различных итемов в Popolion -->
-		<link name="Магазин" icon="DIALOG" >
+		<!-- Shop различных итемов в Popolion -->
+		<link name="Shop" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2501" >
 				<section>
 					<item id="171" />
@@ -845,8 +845,8 @@
 	</npc>
 	
 	<npc id="1002" type="368">
-		<!-- Магазин различных итемов в Pora Elinu -->
-		<link name="Магазин" icon="DIALOG" >
+		<!-- Shop различных итемов в Pora Elinu -->
+		<link name="Shop" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2501" >
 				<section>
 					<item id="171" />
@@ -1056,8 +1056,8 @@
 	</npc>
 	
 	<npc id="1002" type="365">
-		<!-- Магазин различных итемов в Chebika -->
-		<link name="Магазин" icon="DIALOG" >
+		<!-- Shop различных итемов в Chebika -->
+		<link name="Shop" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2501" >
 				<section>
 					<item id="171" />
@@ -1267,8 +1267,8 @@
 	</npc>
 	
 	<npc id="1002" type="366">
-		<!-- Магазин различных итемов в Tulufan  -->
-		<link name="Магазин" icon="DIALOG" >
+		<!-- Shop различных итемов в Tulufan  -->
+		<link name="Shop" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2501" >
 				<section>
 					<item id="171" />
@@ -1478,8 +1478,8 @@
 	</npc>
 	
 	<npc id="1001" type="361">
-		<!-- Магазин различных итемов в Castanica -->
-		<link name="Магазин" icon="DIALOG" >
+		<!-- Shop различных итемов в Castanica -->
+		<link name="Shop" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2501" >
 				<section>
 					<item id="171" />
@@ -1689,8 +1689,8 @@
 	</npc>
 	
 	<npc id="1002" type="371">
-		<!-- Магазин различных итемов в Bastion -->
-		<link name="Магазин" icon="DIALOG" >
+		<!-- Shop различных итемов в Bastion -->
+		<link name="Shop" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2501" >
 				<section>
 					<item id="171" />
@@ -1900,8 +1900,8 @@
 	</npc>
 
 	<npc id="1001" type="375">
-		<!-- Магазин различных итемов во Frontera -->
-		<link name="Магазин" icon="DIALOG" >
+		<!-- Shop различных итемов во Frontera -->
+		<link name="Shop" icon="DIALOG" >
 			<reply name="ReplyShop" sectionId="2501" >
 				<section>
 					<item id="171" />

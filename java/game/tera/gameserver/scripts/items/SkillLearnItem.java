@@ -83,10 +83,34 @@ public class SkillLearnItem extends AbstractItemExecutor
 	 */
 	private void skillTableInit()
 	{
-		// получаем таблицу скилов
+		// Get a table skills
 		SkillTable table = SkillTable.getInstance();
 
-		// книга для изучение первого маунта
+		// book for the study of the first mount
 		skillTable.put(20, table.getSkills(-15, 67219975));
+                
+                //book for the study of the another mounts 
+                //sdbezerra 
+                skillTable.put(21, table.getSkills(-15, 67219976));
+                skillTable.put(41, table.getSkills(-15, 67219978));
+                skillTable.put(166, table.getSkills(-15, 67219991));
+                skillTable.put(167, table.getSkills(-15, 67219980));
+                skillTable.put(168, table.getSkills(-15, 67219981));
+                skillTable.put(169, table.getSkills(-15, 67219982));
+                skillTable.put(170, table.getSkills(-15, 67219983));
+                skillTable.put(306, table.getSkills(-15, 67219985));
+                skillTable.put(307, table.getSkills(-15, 67219986));
+                skillTable.put(336, table.getSkills(-15, 67220054));
+                skillTable.put(350, table.getSkills(-15, 67219988));
+                skillTable.put(351, table.getSkills(-15, 67219989));
+                skillTable.put(384, table.getSkills(-15, 67220061));
+                skillTable.put(385, table.getSkills(-15, 67220062));
+                skillTable.put(412, table.getSkills(-15, 67219990));
+                skillTable.put(413, table.getSkills(-15, 67219991));
+                skillTable.put(414, table.getSkills(-15, 67219992));
+                skillTable.put(415, table.getSkills(-15, 67219981));
+                skillTable.put(416, table.getSkills(-15, 67219982));
+                skillTable.put(417, table.getSkills(-15, 67219996));
+                skillTable.put(425, table.getSkills(-15, 67220056));
 	}
 }

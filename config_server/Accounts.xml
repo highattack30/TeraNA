@@ -13,6 +13,8 @@
 
 	<set name="ACCOUNT_PREMIUM_QUEST_RATE" value="2.0" />	
 	<set name="ACCOUNT_PREMIUM_QUEST" value="true" />
+	<!-- Premium Hero points (true) -->
+	<set name="ACCOUNT_PREMIUM_HERO" value="true" />
 	<!-- Premium Hero Rate (2.0) -->
 	<set name="ACCOUNT_PREMIUM_HERO_RATE" value="2.0" />
 	

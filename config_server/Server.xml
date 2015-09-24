@@ -32,7 +32,7 @@
 	<!-- whether to use real randomayzer for tipping (false) -->
 	<set name="SERVER_OWERTURN_REAL_RANDOM" value="false" />
 	
-    <!-- modifier available online (--online command) (1.0) -->
+    <!-- modifier available online (online command) (1.0) -->
 	<set name="SERVER_ONLINE_FAKE" value="1.0" />
 	<!-- O address online file server /home/brabusx/online/online.txt -->
 	<set name="SERVER_ONLINE_FILE" value="online.php" />

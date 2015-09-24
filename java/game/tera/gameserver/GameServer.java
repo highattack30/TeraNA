@@ -187,7 +187,7 @@ public class GameServer extends ServerThread implements DeadLockListener
 		OnlineManager onlineManager = OnlineManager.getInstance();
 		onlineManager.stop();
 
-		World.sendAnnounce("ATTENTION! The server encountered a critical error, wait for the restart.");
+		World.sendAnnounce("ATTENTION! The server encountered a critical error, wait for the restart!");
 	}
 
 	@Override

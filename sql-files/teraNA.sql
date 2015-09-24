@@ -24,6 +24,13 @@ CREATE TABLE IF NOT EXISTS `accounts` (
   KEY `access_level` (`access_level`)
 ) ENGINE=MyISAM ;
 
+CREATE TABLE IF NOT EXISTS `account_bank` (
+  `account_name` varchar(45) NOT NULL,
+  `bank_id` int(10) unsigned NOT NULL auto_increment,
+  PRIMARY KEY  (`bank_id`),
+  UNIQUE KEY `account_name_UNIQUE` (`account_name`)
+) ENGINE=MyISAM;
+
 
 CREATE TABLE IF NOT EXISTS `boss_spawn` (
   `npc_id` int(10) unsigned NOT NULL DEFAULT '0',
